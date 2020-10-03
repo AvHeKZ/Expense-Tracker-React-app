@@ -9,7 +9,7 @@ export const Transaction = ({transaction}) => {
 
     return (
         <li className={transaction.amount < 0 ? 'minus d-flex justify-content-between list-group-item my-1' : 'plus d-flex justify-content-between list-group-item my-1'}>
-            {transaction.text} <span>{sign}${Math.abs(transaction.amount)}</span><button onClick={() => deleteTransaction(transaction.id)} className='btn btn-sm btn-danger delete-btn'>X</button>
+            {transaction.text} <span>{sign}${Math.abs(transaction.amount)}</span><button onClick={() => deleteTransaction(transaction.id)} className='btn btn-sm btn-danger delete-btn'>Delete</button>
         </li>
     )
 }

@@ -47,16 +47,13 @@ h4 {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-100%, -50%);
-  opacity: 0;
+  transform: translate(-50%, -50%);
+  opacity: 1;
   transition: opacity 0.4s ease;
   
 }
 
-li:hover  .delete-btn {
-  opacity: 1;
-  
-}
+
 
 li {
   cursor: pointer;
