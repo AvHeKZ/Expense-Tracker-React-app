@@ -46,7 +46,7 @@ h4 {
 .delete-btn {
   position: absolute;
   top: 50%;
-  left: 0;
+  left: 50%;
   transform: translate(-100%, -50%);
   opacity: 0;
   transition: opacity 0.4s ease;
@@ -66,10 +66,10 @@ li {
 }
 
 
-/* 
+
 ul {
-  max-height: 300px;
+  max-height: 230px;
   overflow-y: scroll;
  
-} */
+}
 
