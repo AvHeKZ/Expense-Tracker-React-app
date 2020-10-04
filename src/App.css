@@ -11,6 +11,7 @@ body {
   min-height: 100vh;
   margin: 0;
   font-family: 'Lato', sans-serif;
+  overflow: hidden;
 }
 
 
@@ -65,7 +66,7 @@ li {
 
 
 ul {
-  max-height: 230px;
+  max-height: 170px;
   overflow-y: scroll;
  
 }

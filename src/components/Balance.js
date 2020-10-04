@@ -12,8 +12,7 @@ import { GlobalContext } from '../context/GlobalState'
 
     return (
         <div>
-            <h4>Your Balance</h4>
-            <h1>${total}</h1>
+            <h1 className='text-center'>Total - ${total}</h1>
         </div>
     )
 }
