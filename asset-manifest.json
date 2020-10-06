@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Expense-Tracker-React-app/static/css/main.ae5bda10.chunk.css",
-    "main.js": "/Expense-Tracker-React-app/static/js/main.148058ca.chunk.js",
-    "main.js.map": "/Expense-Tracker-React-app/static/js/main.148058ca.chunk.js.map",
+    "main.css": "/Expense-Tracker-React-app/static/css/main.da11bcc3.chunk.css",
+    "main.js": "/Expense-Tracker-React-app/static/js/main.5c530328.chunk.js",
+    "main.js.map": "/Expense-Tracker-React-app/static/js/main.5c530328.chunk.js.map",
     "runtime-main.js": "/Expense-Tracker-React-app/static/js/runtime-main.eb3aa999.js",
     "runtime-main.js.map": "/Expense-Tracker-React-app/static/js/runtime-main.eb3aa999.js.map",
     "static/js/2.c57cdb69.chunk.js": "/Expense-Tracker-React-app/static/js/2.c57cdb69.chunk.js",
     "static/js/2.c57cdb69.chunk.js.map": "/Expense-Tracker-React-app/static/js/2.c57cdb69.chunk.js.map",
     "index.html": "/Expense-Tracker-React-app/index.html",
-    "precache-manifest.11d2a0c217ebc8f26ba3249ac13723b6.js": "/Expense-Tracker-React-app/precache-manifest.11d2a0c217ebc8f26ba3249ac13723b6.js",
+    "precache-manifest.0801676c6ec05d564579bafda241c3ff.js": "/Expense-Tracker-React-app/precache-manifest.0801676c6ec05d564579bafda241c3ff.js",
     "service-worker.js": "/Expense-Tracker-React-app/service-worker.js",
-    "static/css/main.ae5bda10.chunk.css.map": "/Expense-Tracker-React-app/static/css/main.ae5bda10.chunk.css.map",
+    "static/css/main.da11bcc3.chunk.css.map": "/Expense-Tracker-React-app/static/css/main.da11bcc3.chunk.css.map",
     "static/js/2.c57cdb69.chunk.js.LICENSE.txt": "/Expense-Tracker-React-app/static/js/2.c57cdb69.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.eb3aa999.js",
     "static/js/2.c57cdb69.chunk.js",
-    "static/css/main.ae5bda10.chunk.css",
-    "static/js/main.148058ca.chunk.js"
+    "static/css/main.da11bcc3.chunk.css",
+    "static/js/main.5c530328.chunk.js"
   ]
 }
