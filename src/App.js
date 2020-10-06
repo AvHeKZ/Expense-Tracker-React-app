@@ -15,7 +15,7 @@ const App = () => {
     <GlobalProvider>
       
       <div className='container1'>
-        <Balance />
+          
         <IncomeExpense />
         <TransactionList />
         <AddTransaction />

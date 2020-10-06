@@ -12,20 +12,27 @@ const IncomeExpense = () => {
     .reduce((x, y) => (x += y), 0)
     .toFixed(2)
 
+    const total = amounts.reduce((x, y) => (x += y), 0).toFixed(2)
+
     const expense = (amounts.filter(x => x < 0).reduce((x,y) => (x += y), 0) * -1 ).toFixed(2)
 
     return (
         <div className='card card-body ' style={boxShadow}>
             
-            <div className='d-flex justify-content-between'>
+            <div className='d-flex justify-content-between  '>
+                <div>
+                    <h4>Total</h4>
+                    <p className='text-primary text-center'>${total}</p>
+                </div>
                 <div>
                     <h4>Income</h4>
                     <p className='text-success text-center'>${income}</p>
                 </div>
                 <div>
-                    <h4>Expense</h4>
+                    <h4>Exps</h4>
                     <p className='text-danger text-center'>${expense}</p>
                 </div>
+                
             </div>
         </div>
     )
