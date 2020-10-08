@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9b4d627dbb1a2595f225ec6ae0128ba0",
+    "revision": "a18138feab4ed5c0b764cde8c74783dd",
     "url": "/Expense-Tracker-React-app/index.html"
   },
   {
-    "revision": "7034ab152ce03dcedb43",
-    "url": "/Expense-Tracker-React-app/static/css/main.6a86f560.chunk.css"
+    "revision": "c117893ccee30ae94197",
+    "url": "/Expense-Tracker-React-app/static/css/main.3df623f9.chunk.css"
   },
   {
     "revision": "c4adbf758ae8159b7c6f",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Expense-Tracker-React-app/static/js/2.549fbba8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7034ab152ce03dcedb43",
-    "url": "/Expense-Tracker-React-app/static/js/main.b94f7e19.chunk.js"
+    "revision": "c117893ccee30ae94197",
+    "url": "/Expense-Tracker-React-app/static/js/main.262ba4c1.chunk.js"
   },
   {
     "revision": "c2f04a7161ee9a30de7a",
