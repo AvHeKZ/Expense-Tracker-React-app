@@ -11,12 +11,12 @@ const AddTransaction = () => {
 
     const onSubmit = (e) => {
         e.preventDefault()
-
+        var utc = new Date().toJSON().slice(0,10).replace(/-/g,'/');
+        
         const newTransaction = {
             id: Math.floor(Math.random() * 100000000),
             text,
             amount: +amount,
-            date: new Date()
           }
       
         addTransaction(newTransaction);
