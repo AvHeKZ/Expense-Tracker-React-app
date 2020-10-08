@@ -32,10 +32,17 @@ export const GlobalProvider = ({ children}) => {
     });
   }
 
+  function clearAllUsers() {
+    dispatch({
+      type: 'CLEAR_USERS',
+    })
+  }
+
   return (<GlobalContext.Provider value={{
     transactions,
     addTransaction,
-    deleteTransaction
+    deleteTransaction,
+    clearAllUsers
     
   }}>
     {children}
