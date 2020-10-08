@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/Expense-Tracker-React-app/static/css/main.da11bcc3.chunk.css",
-    "main.js": "/Expense-Tracker-React-app/static/js/main.5c530328.chunk.js",
-    "main.js.map": "/Expense-Tracker-React-app/static/js/main.5c530328.chunk.js.map",
+    "main.css": "/Expense-Tracker-React-app/static/css/main.6a86f560.chunk.css",
+    "main.js": "/Expense-Tracker-React-app/static/js/main.b94f7e19.chunk.js",
+    "main.js.map": "/Expense-Tracker-React-app/static/js/main.b94f7e19.chunk.js.map",
     "runtime-main.js": "/Expense-Tracker-React-app/static/js/runtime-main.eb3aa999.js",
     "runtime-main.js.map": "/Expense-Tracker-React-app/static/js/runtime-main.eb3aa999.js.map",
-    "static/js/2.c57cdb69.chunk.js": "/Expense-Tracker-React-app/static/js/2.c57cdb69.chunk.js",
-    "static/js/2.c57cdb69.chunk.js.map": "/Expense-Tracker-React-app/static/js/2.c57cdb69.chunk.js.map",
+    "static/js/2.549fbba8.chunk.js": "/Expense-Tracker-React-app/static/js/2.549fbba8.chunk.js",
+    "static/js/2.549fbba8.chunk.js.map": "/Expense-Tracker-React-app/static/js/2.549fbba8.chunk.js.map",
     "index.html": "/Expense-Tracker-React-app/index.html",
-    "precache-manifest.0801676c6ec05d564579bafda241c3ff.js": "/Expense-Tracker-React-app/precache-manifest.0801676c6ec05d564579bafda241c3ff.js",
+    "precache-manifest.0eba48740b903025187c273014b2f315.js": "/Expense-Tracker-React-app/precache-manifest.0eba48740b903025187c273014b2f315.js",
     "service-worker.js": "/Expense-Tracker-React-app/service-worker.js",
-    "static/css/main.da11bcc3.chunk.css.map": "/Expense-Tracker-React-app/static/css/main.da11bcc3.chunk.css.map",
-    "static/js/2.c57cdb69.chunk.js.LICENSE.txt": "/Expense-Tracker-React-app/static/js/2.c57cdb69.chunk.js.LICENSE.txt"
+    "static/css/main.6a86f560.chunk.css.map": "/Expense-Tracker-React-app/static/css/main.6a86f560.chunk.css.map",
+    "static/js/2.549fbba8.chunk.js.LICENSE.txt": "/Expense-Tracker-React-app/static/js/2.549fbba8.chunk.js.LICENSE.txt",
+    "static/media/giphy.gif": "/Expense-Tracker-React-app/static/media/giphy.269892d3.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.eb3aa999.js",
-    "static/js/2.c57cdb69.chunk.js",
-    "static/css/main.da11bcc3.chunk.css",
-    "static/js/main.5c530328.chunk.js"
+    "static/js/2.549fbba8.chunk.js",
+    "static/css/main.6a86f560.chunk.css",
+    "static/js/main.b94f7e19.chunk.js"
   ]
 }
